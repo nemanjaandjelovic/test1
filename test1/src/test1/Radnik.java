@@ -14,6 +14,7 @@ public class Radnik {
     private String prezime;
     private int brojTelefona;
     
+    
 
     public Radnik(String ime, String prezime, int brojTelefona) {
         this.ime = ime;
